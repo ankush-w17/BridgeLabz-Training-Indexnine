@@ -11,3 +11,10 @@ evens.filter(n =>{
      console.log(n);
     }  
 });
+
+//map
+let squares=[1,2,3]
+squares.map((n) =>{
+console.log(n*n);
+})
+     
