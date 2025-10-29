@@ -64,7 +64,14 @@ Higher Order Functions
 
 Learning Update 29/10/2025
 Anonymous Function(Extra)
-First Class Functions
+First Class Functions 
 Arrow Function(Extra)
 Callback Function
 Event Listener(Extra)
+Garbage Collection(Extra)
+Asynchronous JS
+Event Loop (Extra)
+Web APIs (Extra)
+LocalStorage(Extra)
+JS Engine
+setTimeout()
