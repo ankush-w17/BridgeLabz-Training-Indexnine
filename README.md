@@ -61,3 +61,10 @@ Asynchronous JS
 V8 Engine
 setTimeout()
 Higher Order Functions
+
+Learning Update 29/10/2025
+Anonymous Function(Extra)
+First Class Functions
+Arrow Function(Extra)
+Callback Function
+Event Listener(Extra)
