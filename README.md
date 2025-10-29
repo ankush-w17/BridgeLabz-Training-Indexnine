@@ -68,3 +68,4 @@ First Class Functions
 Arrow Function(Extra)
 Callback Function
 Event Listener(Extra)
+Garbage Collection(Extra)
