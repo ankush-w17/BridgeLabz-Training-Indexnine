@@ -1,5 +1,25 @@
 # BridgeLabz-Training-Indexnine
 
+Learning Update
+24/10/2025
+JS Fundamentals
+Data Types
+Loops
+Functions
+Arrow Function
+object classes prototypes 
+OOPS
+
+Learning Update 25/10/2025
+Inheritance
+Encapsulation
+Polymorphism
+Abstraction
+Prototypes
+Exception Handling
+Try Catch Block
+
+
 Learning Plan 27/10/25
 Exception handling
 How Javascript works
@@ -33,3 +53,11 @@ Scope Chain
 Different types of errors
 Block scope and shadowing
 Closure
+
+Learning Plan 29/10/2025
+First Class Functions
+Callback
+Asynchronous JS
+V8 Engine
+setTimeout()
+Higher Order Functions
