@@ -75,3 +75,13 @@ Web APIs (Extra)
 LocalStorage(Extra)
 JS Engine
 setTimeout()
+
+Learning Plan 30/10/2025
+Higher Order Function 
+Map, filter, Reduce
+Callback Hell
+Promises
+Chaining
+async await
+this
+Project
