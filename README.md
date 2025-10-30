@@ -85,3 +85,13 @@ Chaining
 async await
 this
 Project
+
+Learning Update 30/10/2025
+What I’ve Done:
+Higher Order Functions
+Map, Filter, Reduce
+Promises
+Chaining
+Project: Use Case 1-4
+What I Will Do Next: UC 4-8
+Issues Faced: Little trouble in understanding reduce
