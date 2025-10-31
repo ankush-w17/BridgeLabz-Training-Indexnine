@@ -95,3 +95,24 @@ Chaining
 Project: Use Case 1-4
 What I Will Do Next: UC 4-8
 Issues Faced: Little trouble in understanding reduce
+
+Learning Update-1  31/10/2025
+What I've Done:
+async await
+fetch
+currying
+try catch
+What I will do next:
+this keyword
+Project UC 4-8
+Issues Faced: None
+
+Learning Update-2  31/10/2025
+What I've Done:
+this
+call apply bind 
+Review
+UC 4-8
+Project completed
+What I will do next: ES6
+Issues Faced: None
