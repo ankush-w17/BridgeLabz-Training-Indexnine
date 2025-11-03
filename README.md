@@ -116,3 +116,35 @@ UC 4-8
 Project completed
 What I will do next: ES6
 Issues Faced: None
+
+Learning update-1 1/11/2025
+What i have done :
+Employee Wage Project
+ES6
+for in
+for of
+for each
+Promise
+Promise API
+What i will do next :
+async await
+nullish coalesing
+Optional chaining
+Enhanced object literals
+OOPS
+Issues : None
+
+Learning update-2 1/11/2025
+What i have done :
+async await
+nullish coalesing
+Optional chaining
+Enhanced object literals
+OOPS
+What i will do next :
+Issues : None
+
+Learning Update-1 3/11/25
+what i have done: oops, promises, async await
+what i will do next : Node js ,npm , event loop HTTP
+issues faced : None
