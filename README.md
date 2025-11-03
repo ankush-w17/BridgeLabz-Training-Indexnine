@@ -148,3 +148,14 @@ Learning Update-1 3/11/25
 what i have done: oops, promises, async await
 what i will do next : Node js ,npm , event loop HTTP
 issues faced : None
+
+Learning update-2 3/11/2025
+What i have done :
+Node
+NPM
+Modules 
+filename
+dirname
+path module
+What i will do next :
+Issues : None
