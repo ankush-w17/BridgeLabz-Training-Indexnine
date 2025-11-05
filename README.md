@@ -159,3 +159,37 @@ dirname
 path module
 What i will do next :
 Issues : None
+
+
+Learning Update 4/11/2025
+What I have done: event driven programming, polyfills and transpilers, nodejs topics
+
+Issues faced: None
+
+
+Learning update-1 5/11/2025
+What i have done :
+file-system
+folder creation
+file creation
+Read file
+asyn File Operations
+HTTP module
+routing
+What i will do next :
+event-emitter, api, further Node concepts
+Issues : None
+
+
+Learning update-2 5/11/2025
+What i have done :
+event-emitter
+api handling
+Req & Res
+routing (more)
+serving static files
+callbacks
+promises
+async await
+What i will do next :
+Issues : None
